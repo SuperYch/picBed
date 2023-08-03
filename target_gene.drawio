@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T09:33:30.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.5" etag="GuttoBSIWK-vsbS2bfJn" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T11:28:46.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2xAynWcPk5h9BXGEL1iu" version="21.6.5" type="github">
   <diagram name="第 1 页" id="AzRwPV1UV5KzvWtq0Vpb">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SsY8pucnaP0CDxSPrZ46-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SsY8pucnaP0CDxSPrZ46-1" target="SsY8pucnaP0CDxSPrZ46-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsY8pucnaP0CDxSPrZ46-1" value="确定 &lt;b&gt;EBV 蛋白&lt;/b&gt;的人类&lt;b&gt;靶基因&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="250.00265306122446" y="318.5" width="118.36734693877551" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SsY8pucnaP0CDxSPrZ46-2" value="确定HIC、公司数据的&lt;b&gt;共同基因&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="118.36734693877551" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SsY8pucnaP0CDxSPrZ46-4" value="确定调控共同基因的&lt;b&gt;转录因子&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="244.25" width="118.36734693877551" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SsY8pucnaP0CDxSPrZ46-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SsY8pucnaP0CDxSPrZ46-2" target="SsY8pucnaP0CDxSPrZ46-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsY8pucnaP0CDxSPrZ46-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SsY8pucnaP0CDxSPrZ46-5" target="SsY8pucnaP0CDxSPrZ46-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsY8pucnaP0CDxSPrZ46-5" value="确定&lt;b&gt;转录因子&lt;/b&gt;的人类&lt;b&gt;靶基因&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="318.5" width="118.36734693877551" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SsY8pucnaP0CDxSPrZ46-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SsY8pucnaP0CDxSPrZ46-4" target="SsY8pucnaP0CDxSPrZ46-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsY8pucnaP0CDxSPrZ46-6" value="受转录因子、EBV共同调控的基因集合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="399.5" width="150" height="40.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
